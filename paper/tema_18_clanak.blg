@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/dev/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: tema_18_clanak.aux
+The style file: tar2016.bst
+Database file #1: tar2016.bib
+Warning--can't use both volume and number fields in ref-asistent
+You've used 15 entries,
+            2490 wiz_defined-function locations,
+            639 strings with 7214 characters,
+and the built_in function-call counts, 6904 in all, are:
+= -- 763
+> -- 195
+< -- 11
++ -- 67
+- -- 62
+* -- 452
+:= -- 1024
+add.period$ -- 63
+call.type$ -- 15
+change.case$ -- 90
+chr.to.int$ -- 12
+cite$ -- 16
+duplicate$ -- 335
+empty$ -- 560
+format.name$ -- 83
+if$ -- 1532
+int.to.chr$ -- 4
+int.to.str$ -- 0
+missing$ -- 16
+newline$ -- 92
+num.names$ -- 45
+pop$ -- 123
+preamble$ -- 1
+purify$ -- 106
+quote$ -- 0
+skip$ -- 264
+stack$ -- 0
+substring$ -- 427
+swap$ -- 119
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 116
+warning$ -- 1
+while$ -- 63
+width$ -- 20
+write$ -- 216
+(There was 1 warning)

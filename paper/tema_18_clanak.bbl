@@ -1,0 +1,111 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Alpaydin}2014]{ml-book}
+E.~Alpaydin, 2014.
+\newblock {\em Introduction to Machine Learning}, pages 449--450, 480--482.
+\newblock MIT Press.
+
+\bibitem[\protect\citename{Beeferman \bgroup et al.\egroup }1999]{pk-ref}
+Doug Beeferman, Adam Berger, and John Lafferty.
+\newblock 1999.
+\newblock Statistical models for text segmentation.
+\newblock {\em Machine learning}, 34(1-3):177--210.
+
+\bibitem[\protect\citename{Blei \bgroup et al.\egroup }2003]{lda}
+D.~M. Blei, A.~Y. Ng, and M.~I. Jordan.
+\newblock 2003.
+\newblock Latent dirichlet allocation.
+\newblock {\em Journal of machine Learning research}, pages 993--1022.
+
+\bibitem[\protect\citename{Choi}2000]{choi-ref}
+F.~Y.~Y. Choi.
+\newblock 2000.
+\newblock Advances in domain independent linear text segmentation.
+\newblock In {\em Proceedings of the 1st North American chapter of the
+  Association for Computational Linguistics conference}, pages 26--33, Seattle,
+  WA, USA.
+
+\bibitem[\protect\citename{Eisenstein}2009]{eisenstein-ref}
+Jacob Eisenstein.
+\newblock 2009.
+\newblock Hierarchical text segmentation from multi-scale lexical cohesion.
+\newblock In {\em Proceedings of Human Language Technologies: The 2009 Annual
+  Conference of the North American Chapter of the Association for Computational
+  Linguistics}, pages 353--361. Association for Computational Linguistics.
+
+\bibitem[\protect\citename{Galley \bgroup et al.\egroup }2003]{galley-ref}
+Michel Galley, Kathleen McKeown, Eric Fosler-Lussier, and Hongyan Jing.
+\newblock 2003.
+\newblock Discourse segmentation of multi-party conversation.
+\newblock In {\em Proceedings of the 41st Annual Meeting on Association for
+  Computational Linguistics-Volume 1}, pages 562--569. Association for
+  Computational Linguistics.
+
+\bibitem[\protect\citename{Hearst}1994]{hearst-ref}
+M.~A. Hearst.
+\newblock 1994.
+\newblock Multi-paragraph segmentation of expository text.
+\newblock {\em In Proceedings of the 32nd annual meeting on Association for
+  Computational Linguistics}, pages 9--16.
+
+\bibitem[\protect\citename{Misra \bgroup et al.\egroup }2009]{misra-ref}
+Hemant Misra, Fran{\c{c}}ois Yvon, Joemon~M Jose, and Olivier Cappe.
+\newblock 2009.
+\newblock Text segmentation via topic modeling: an analytical study.
+\newblock In {\em Proceedings of the 18th ACM conference on Information and
+  knowledge management}, pages 1553--1556. ACM.
+
+\bibitem[\protect\citename{Pevzner and Hearst}2002]{wd-ref}
+L.~Pevzner and M.~A. Hearst.
+\newblock 2002.
+\newblock A critique and improvement of an evaluation metric for text
+  segmentation.
+\newblock {\em Computational Linguistics}, pages 19--36.
+
+\bibitem[\protect\citename{Riedl and Biemann}2012a]{ref2}
+M.~Riedl and C.~Biemann.
+\newblock 2012a.
+\newblock How text segmentation algorithms gain from topic models.
+\newblock In {\em Proceedings of the Conference of the North American Chapter
+  of the Association for Computational Linguistics: Human Language Technologies
+  (NAACL-HLT 2012)}, Montreal, Canada.
+
+\bibitem[\protect\citename{Riedl and Biemann}2012b]{ref4}
+M.~Riedl and C.~Biemann.
+\newblock 2012b.
+\newblock Sweeping through the topic space: Bad luck? roll again!
+\newblock In {\em Proceedings of the Joint Workshop on Unsupervised and
+  Semi-Supervised Learning in NLP held in conjunction with EACL 2012}, Avignon,
+  France.
+
+\bibitem[\protect\citename{Riedl and Biemann}2012c]{ref-asistent}
+M.~Riedl and C.~Biemann.
+\newblock 2012c.
+\newblock Text segmentation with topic models.
+\newblock In {\em Journal for Language Technology and Computational Linguistics
+  (JLCL)}, volume~27, pages 47--70.
+
+\bibitem[\protect\citename{Riedl and Biemann}2012d]{ref3}
+M.~Riedl and C.~Biemann.
+\newblock 2012d.
+\newblock Topictiling: A text segmentation algorithm based on lda.
+\newblock In {\em Proceedings of the Student Research Workshop of the 50th
+  Meeting of the Association for Computational Linguistics}, Jeju, Republic of
+  Korea.
+
+\bibitem[\protect\citename{Utiyama and Isahara}2001]{utiyama-ref}
+Masao Utiyama and Hitoshi Isahara.
+\newblock 2001.
+\newblock A statistical model for domain-independent text segmentation.
+\newblock In {\em Proceedings of the 39th Annual Meeting on Association for
+  Computational Linguistics}, pages 499--506. Association for Computational
+  Linguistics.
+
+\bibitem[\protect\citename{Yaari}1997]{yaari-ref}
+Yaakov Yaari.
+\newblock 1997.
+\newblock Segmentation of expository texts by hierarchical agglomerative
+  clustering.
+\newblock {\em arXiv preprint cmp-lg/9709015}.
+
+\end{thebibliography}
